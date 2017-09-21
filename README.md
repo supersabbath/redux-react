@@ -1,3 +1,9 @@
+
+# redux-react
+plurarlsight course exercises
+
+## Readme from the course
+
 # Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
@@ -79,3 +85,4 @@ This will run the automated build process, start up a webserver, and open the ap
 |webpack| Bundler with plugin system and integrated development server |
 |webpack-dev-middleware| Adds middleware support to webpack |
 |webpack-hot-middleware| Adds hot reloading to webpack |
+ 
