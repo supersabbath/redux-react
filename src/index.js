@@ -12,7 +12,7 @@ import { Provider } from 'react-redux';
 import {loadCourses} from './actions/courseActions';
 
 const store = configureStore();
-//store.dispatch(loadCourses());
+store.dispatch( loadCourses() );
 
 render(
     <Provider store = {store}>

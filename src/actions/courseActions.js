@@ -2,7 +2,7 @@ import * as type from './actionTypes';
 import coursesAPI from '../api/mockCourseApi';
 
 export function loadCoursesSuccess(course) {
-    return { type: type.LOAR_COURSES_SUCCESS , course:course };
+    return { type: type.LOAD_COURSES_SUCCESS , course:course };
 }
 
 export function loadCourses(){
