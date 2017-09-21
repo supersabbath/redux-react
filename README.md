@@ -1,2 +1,2 @@
 # redux-react
-course excersives
+plurarlsight course exercises
